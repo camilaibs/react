@@ -1,0 +1,15 @@
+.nao-encontrada {
+    padding: 3rem 1rem 0;
+    text-align: center;
+}
+
+.nao-encontrada__imagem {
+    width: 40%;
+}
+
+@media (min-width: 992px) {
+    .nao-encontrada {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
